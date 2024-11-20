@@ -62,11 +62,15 @@ cat file  # Verify shared access by reading content created in Instance 1
 ### NAME:GOGINENI BIDHISHA
 
 ### Both EC2 instances showing EFS mounting.
-![image](https://github.com/user-attachments/assets/59aae0af-4553-4573-a586-b9ae8b03b504)
+   
+   ![image](https://github.com/user-attachments/assets/59aae0af-4553-4573-a586-b9ae8b03b504)
 ### The creation of a file on Instance 1.
+
+
 ![image](https://github.com/user-attachments/assets/f188bd7a-f309-4e88-aa5c-b6f50439f094)
 ### The display of that file’s contents on Instance 2 to verify shared access
-![image](https://github.com/user-attachments/assets/908e5521-20e5-4400-8195-48cfb847912c)
+ 
+ ![image](https://github.com/user-attachments/assets/908e5521-20e5-4400-8195-48cfb847912c)
 
  
 ## RESULT
